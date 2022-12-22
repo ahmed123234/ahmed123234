@@ -39,4 +39,10 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+ ---
+
+### :woman_technologist: About Me :
+</div>
 
